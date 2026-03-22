@@ -1,0 +1,112 @@
+[
+  {
+    "invoice_id": "I001",
+    "order_id": "O001",
+    "customer_id": "C001",
+    "product_id": "P009",
+    "invoice_date": "2026-01-07",
+    "invoice_amount": 213.01,
+    "vat_rate": 0.19,
+    "IsVatIncluded": true,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I002",
+    "order_id": "O002",
+    "customer_id": "C002",
+    "product_id": "P006",
+    "invoice_date": "2026-01-09",
+    "invoice_amount": 99.0,
+    "vat_rate": 0.19,
+    "IsVatIncluded": false,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I003",
+    "order_id": "O003",
+    "customer_id": "C003",
+    "product_id": "P003",
+    "invoice_date": "2026-01-13",
+    "invoice_amount": 236.81,
+    "vat_rate": 0.19,
+    "IsVatIncluded": true,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I004",
+    "order_id": "O004",
+    "customer_id": "C004",
+    "product_id": "P004",
+    "invoice_date": "2026-01-16",
+    "invoice_amount": 129.0,
+    "vat_rate": 0.19,
+    "IsVatIncluded": false,
+    "payment_status": "Unpaid"
+  },
+  {
+    "invoice_id": "I005",
+    "order_id": "O005",
+    "customer_id": "C006",
+    "product_id": "P010",
+    "invoice_date": "2026-02-04",
+    "invoice_amount": 296.31,
+    "vat_rate": 0.19,
+    "IsVatIncluded": true,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I006",
+    "order_id": "O006",
+    "customer_id": "C007",
+    "product_id": "P008",
+    "invoice_date": "2026-02-08",
+    "invoice_amount": 89.0,
+    "vat_rate": 0.19,
+    "IsVatIncluded": false,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I007",
+    "order_id": "O007",
+    "customer_id": "C009",
+    "product_id": "P002",
+    "invoice_date": "2026-02-19",
+    "invoice_amount": 177.31,
+    "vat_rate": 0.19,
+    "IsVatIncluded": true,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I008",
+    "order_id": "O008",
+    "customer_id": "C010",
+    "product_id": "P007",
+    "invoice_date": "2026-02-24",
+    "invoice_amount": 49.0,
+    "vat_rate": 0.19,
+    "IsVatIncluded": false,
+    "payment_status": "Unpaid"
+  },
+  {
+    "invoice_id": "I009",
+    "order_id": "O009",
+    "customer_id": "C005",
+    "product_id": "P001",
+    "invoice_date": "2026-02-26",
+    "invoice_amount": 94.01,
+    "vat_rate": 0.19,
+    "IsVatIncluded": true,
+    "payment_status": "Paid"
+  },
+  {
+    "invoice_id": "I010",
+    "order_id": "O010",
+    "customer_id": "C008",
+    "product_id": "P005",
+    "invoice_date": "2026-02-28",
+    "invoice_amount": 59.0,
+    "vat_rate": 0.19,
+    "IsVatIncluded": false,
+    "payment_status": "Paid"
+  }
+]

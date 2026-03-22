@@ -1,0 +1,72 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "Autohaus Stuttgart GmbH",
+    "city": "Stuttgart",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Mobility Service München",
+    "city": "München",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "Rhein Car Support AG",
+    "city": "Köln",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C004",
+    "customer_name": "Nord Fleet Hamburg",
+    "city": "Hamburg",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C005",
+    "customer_name": "Privatkunden Service Berlin",
+    "city": "Berlin",
+    "customer_type": "B2C",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C006",
+    "customer_name": "Main Auto Frankfurt",
+    "city": "Frankfurt",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C007",
+    "customer_name": "Sachsen Drive Dresden",
+    "city": "Dresden",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C008",
+    "customer_name": "Hannover E-Mobility",
+    "city": "Hannover",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C009",
+    "customer_name": "Ruhr Auto Essen",
+    "city": "Essen",
+    "customer_type": "B2B",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "C010",
+    "customer_name": "Bodensee Mobil Konstanz",
+    "city": "Konstanz",
+    "customer_type": "B2C",
+    "country": "Germany"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Schutzbrief Basis",
+    "category": "Schutzbrief",
+    "base_price": 79
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Schutzbrief Premium",
+    "category": "Schutzbrief",
+    "base_price": 149
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Rechtsberatung Plus",
+    "category": "Rechtsberatung",
+    "base_price": 199
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Reiseunterstützung Europa",
+    "category": "Reiseunterstützung",
+    "base_price": 129
+  },
+  {
+    "product_id": "P005",
+    "product_name": "E-Ladekarte Basic",
+    "category": "E-Mobilität",
+    "base_price": 59
+  },
+  {
+    "product_id": "P006",
+    "product_name": "E-Ladekarte Premium",
+    "category": "E-Mobilität",
+    "base_price": 99
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Mitgliedschaft Upgrade Silver",
+    "category": "Mitgliedschafts-Upgrade",
+    "base_price": 49
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Mitgliedschaft Upgrade Gold",
+    "category": "Mitgliedschafts-Upgrade",
+    "base_price": 89
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Pannenhilfe Business",
+    "category": "Pannenhilfe",
+    "base_price": 179
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Pannenhilfe Premium",
+    "category": "Pannenhilfe",
+    "base_price": 249
+  }
+]
