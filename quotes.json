@@ -39,7 +39,6 @@
 {"quote_id":"Q018","customer_id":"C008","product_id":"P006","quote_date":"2025-04-18","quote_amount":99,"quote_status":"Won"},
 {"quote_id":"Q019","customer_id":"C009","product_id":"P008","quote_date":"2025-04-24","quote_amount":89,"quote_status":"Won"},
 {"quote_id":"Q020","customer_id":"C010","product_id":"P009","quote_date":"2025-04-30","quote_amount":179,"quote_status":"Open"},
-  [
 {"quote_id":"Q101","customer_id":"C001","product_id":"P001","quote_date":"2025-01-05","quote_amount":100,"quote_status":"Won"},
 {"quote_id":"Q102","customer_id":"C002","product_id":"P002","quote_date":"2025-01-15","quote_amount":120,"quote_status":"Won"},
 
@@ -79,4 +78,4 @@
 {"quote_id":"Q201","customer_id":"C005","product_id":"P007","quote_date":"2026-01-05","quote_amount":160,"quote_status":"Won"},
 {"quote_id":"Q202","customer_id":"C006","product_id":"P008","quote_date":"2026-01-15","quote_amount":190,"quote_status":"Won"}
 ]
-]
+
